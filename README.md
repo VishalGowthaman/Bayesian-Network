@@ -33,6 +33,9 @@ Generate the graph using networkx<br/>
 Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
+```
+Developed By : Vishal Gowthaman K R
+Reg. No : 212221230123
 ### Import the necessary Libaries
 ```
 import networkx as nx
